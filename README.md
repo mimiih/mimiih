@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @mimiih
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in trabalho remoto
+- 🌱 I’m currently learning  desing,marketing
+- 💞️ I’m looking to collaborate on  oq precisar de acordo do q preocuro
+- 📫 How to reach me 
+
+
 
 <!---
 mimiih/mimiih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
